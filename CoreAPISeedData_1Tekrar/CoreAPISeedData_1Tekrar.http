@@ -1,0 +1,6 @@
+@CoreAPISeedData_1Tekrar_HostAddress = http://localhost:5039
+
+GET {{CoreAPISeedData_1Tekrar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
